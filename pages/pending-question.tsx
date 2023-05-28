@@ -249,7 +249,6 @@ const PendingQuestion: NextPage = () => {
 						{loading ? 'Submitting...' : 'Submit'}
 					</button>
                 </div>
-				{console.log(notifyData)}
 
                 <div className='m-10'>
 					
